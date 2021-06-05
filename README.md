@@ -59,4 +59,24 @@ Knowing that these are the classification models that we would be using, we will
 
 ![deep_neural](https://user-images.githubusercontent.com/75814760/120879850-0383e180-c58c-11eb-858e-02d213de5964.jpg)
 
+## Dataset
 
+* [Kepler Exoplanet Search Results](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
+
+## Built With
+
+* Pandas
+* Jupyter Notebook
+* Visual Studio Code
+
+## Languages
+
+* Python
+
+## Author(s)
+
+* Chris Pope
+
+## Contact:
+
+__Email:__ popex107@umn.edu
