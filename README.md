@@ -41,3 +41,18 @@ Knowing that these are the classification models that we would be using, we will
 ### Compare the models
 
 * Tune and compare the models against one another
+
+## Support Vector Machines (SVM)
+
+![SVM](https://user-images.githubusercontent.com/75814760/120879719-fb777200-c58a-11eb-9431-21030ecb0c69.jpg)
+
+
+## KNN
+
+![KNN](https://user-images.githubusercontent.com/75814760/120879780-66c14400-c58b-11eb-9e3d-9f862c29be80.jpg)
+
+## Neural Network
+
+## Deep Neural Network
+
+
