@@ -63,6 +63,9 @@ Knowing that these are the classification models that we would be using, we will
 
 * [Kepler Exoplanet Search Results](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
 
+## Fidnings
+All of the models were able to achieve at least an 85% accuracy on the test data. Therefore it may be fair to assume that any of the models would be good enough to predict new exoplanets. As they all shown a high degree of accuracy. However, with an accuracy score of 90.4%, the Deep Neural Network was shown to be the most accurate. The second most accurate model was the Neural Network. This leads me to believe that the more layers that you add to the Neural Network, the more accurate it becomes. We may have been able to achieve a higher accuracy score if we continued to add additional layers.
+
 ## Built With
 
 * Pandas
