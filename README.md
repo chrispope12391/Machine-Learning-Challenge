@@ -49,7 +49,7 @@ Knowing that these are the classification models that we would be using, we will
 
 ## KNN
 
-![KNN](https://user-images.githubusercontent.com/75814760/120879780-66c14400-c58b-11eb-9e3d-9f862c29be80.jpg)
+![KNN](https://user-images.githubusercontent.com/75814760/120907141-cc154380-c624-11eb-9153-1fa1e47cee85.jpg)
 
 ## Neural Network
 
